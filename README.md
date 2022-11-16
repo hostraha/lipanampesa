@@ -1,2 +1,2 @@
 # lipanampesa
-WHMCS Lipan na MPESA module
+WHMCS Lipa na MPESA module
